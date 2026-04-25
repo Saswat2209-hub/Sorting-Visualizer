@@ -2,6 +2,8 @@
 
 Welcome to the Sorting Visualizer — a powerful and interactive tool built with ReactJS to help you see how popular sorting algorithms work! Whether you're a student, developer, or curious mind, this app offers a visual way to understand and compare the behavior and efficiency of different sorting techniques. 🎓💡
 
+Link : https://sorting-visualizer-rho-two.vercel.app/
+
 ## ✨ Features
 
 🔁 Interactive Visualizations of sorting algorithms
